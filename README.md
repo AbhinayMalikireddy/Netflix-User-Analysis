@@ -20,3 +20,9 @@ Below is the overview page from PowerBI dashboard and more examples includes in 
 
 <img width="1082" height="594" alt="Screenshot 2025-11-23 104127" src="https://github.com/user-attachments/assets/420ec973-03ed-40d1-96f9-612dec1e1100" />
 
+
+<img width="515" height="225" alt="image" src="https://github.com/user-attachments/assets/ee502dbc-9db6-49f6-a3f2-820fb19afa11" /> <img width="515" height="222" alt="image" src="https://github.com/user-attachments/assets/1e744f45-318e-40d2-8a4a-fc86bc155c33" />
+
+
+
+

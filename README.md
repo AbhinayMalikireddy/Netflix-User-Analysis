@@ -20,7 +20,7 @@ Below is the overview page from PowerBI dashboard and more examples includes in 
 
 <img width="1082" height="594" alt="Screenshot 2025-11-23 104127" src="https://github.com/user-attachments/assets/420ec973-03ed-40d1-96f9-612dec1e1100" />
 
-- Revenue peaked in 2023 and 2024, reaching $66.14K and $63.47K respectively. However, 2022 recorded Netflix’s lifetime low revenue at $26.67K. Even during the pandemic—when most streaming platforms experienced rapid growth in subscribers and watch-time—Netflix lagged behind, indicating weaker performance compared to competitors.
+- Revenue peaked in 2023 and 2024, reaching $66.14K and $63.47K respectively. However, 2022 recorded Netflix’s lifetime low revenue at $26.67K. Even during the pandemic—when most streaming platforms experienced rapid growth in subscribers and watch time Netflix lagged behind, indicating weaker performance compared to competitors.
 - Across all years, Premium and Standard plans consistently attracted the highest number of users. This suggests strong customer preference for feature-rich plans, while Basic and Premium+ plans require more focus to improve adoption.
 - 2023 and 2024 were the best-performing years in terms of both revenue and subscription volume. Even in 2022, despite poor overall performance, Premium and Standard plans still outperformed other tiers, highlighting their continued popularity.
 - A sharp decline in 2025 is visible across both revenue and subscriptions. This drop may be attributed to subscriber loss, price increases, reduced content quality, or growing competition, all of which could impact user retention.
